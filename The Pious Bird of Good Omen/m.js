@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Need Your Love So Bad.mp3";		
+f[2]	= "02 Comin' Home.mp3";		
+f[3]	= "03 Rambling Pony.mp3";		
+f[4]	= "04 The Big Boat.mp3";		
+f[5]	= "05 I Believe My Time Ain't Long.mp3";		
+f[6]	= "06 The Sun Is Shining.mp3";		
+f[7]	= "07 Albatross.mp3";		
+f[8]	= "08 Black Magic Woman.mp3";		
+f[9]	= "09 Just the Blues.mp3";		
+f[10]	= "10 Jigsaw Puzzle Blues.mp3";		
+f[11]	= "11 Looking for Somebody.mp3";		
+f[12]	= "12 Stop Messin' Round.mp3";		
