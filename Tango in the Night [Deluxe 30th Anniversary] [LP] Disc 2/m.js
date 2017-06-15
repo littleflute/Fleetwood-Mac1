@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Down Endless Street.mp3";		
+f[2]	= "02 Special Kind of Love [Demo Version].mp3";		
+f[3]	= "03 Seven Wonders.mp3";		
+f[4]	= "04 Tango in the Night [Demo Version].mp3";		
+f[5]	= "05 Mystified [Alternate Take].mp3";		
+f[6]	= "06 Book of Miracles [Instrumental].mp3";		
+f[7]	= "07 Where We Belong [Demo Version].mp3";		
+f[8]	= "08 Ricky.mp3";		
+f[9]	= "09 Juliet.mp3";		
+f[10]	= "10 Isn't It Midnight [Alternate Take].mp3";		
+f[11]	= "11 Ooh My Love [Demo Version].mp3";		
+f[12]	= "12 Mystified [Demo Version][Instrumental].mp3";		
+f[13]	= "13 You and I, Pt. 2.mp3";		
